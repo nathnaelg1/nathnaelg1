@@ -10,7 +10,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Natnael</h1>
-<h3 align="center">A passionate AI/ML Engineer from Ethiopia</h3>
+<h3 align="center">A passionate Full-Stack Development from Ethiopia</h3>
 
 
 <p align="center">
