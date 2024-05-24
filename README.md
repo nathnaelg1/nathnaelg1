@@ -85,8 +85,9 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/nathnaelg"><img alt="Natnael Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nathnaelg&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+ 
+   [![Natnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathnaelg)](https://github.com/anuraghazra/github-readme-stats)
+  <a> 
   <a href="https://github.com/nathnaelg"><img alt="Natnael Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nathnaelg&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
