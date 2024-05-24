@@ -74,13 +74,13 @@
 
 <p align="center">
   <a href="https://github.com/nathnaelg">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulelaat&theme=radical&border=7F3FBF&background=0D1117" alt="Natnael's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathnaelg&theme=radical&border=7F3FBF&background=0D1117" alt="Natnael's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/nathnaelg">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulelaat&theme=radical" alt="Natnael's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathnaelg&theme=radical" alt="Natnael's GitHub Contribution"/>
   </a>
 </p>
 
