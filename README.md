@@ -1,6 +1,6 @@
 
 <a href="https://komarev.com/ghpvc/?username=nathnaelg">
-  <img align="right" src="https://komarev.com/ghpvc/?username=gulelaat&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=nathnaelg1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -15,7 +15,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/natnael-g" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harunjeylan"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nathnaelg1"/>
  </a>
  <a href="https://x.com/elnathan00" target="_blank">
   <img src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
@@ -74,26 +74,26 @@
 
 
 <p align="center">
-  <a href="https://github.com/nathnaelg">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathnaelg&theme=radical&border=7F3FBF&background=0D1117" alt="Natnael GitHub streak"/>
+  <a href="https://github.com/nathnaelg1">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathnaelg1&theme=radical&border=7F3FBF&background=0D1117" alt="Natnael GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nathnaelg">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathnaelg&theme=radical" alt="Natnael GitHub Contribution"/>
+  <a href="https://github.com/nathnaelg1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathnaelg1&theme=radical" alt="Natnael GitHub Contribution"/>
   </a>
 </p>
 <br/>
 <a> 
 <p align="center">
-  <a href="https://github.com/nathnaelg"><img alt="Natnael Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nathnaelg&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/nathnaelg1"><img alt="Natnael Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nathnaelg1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   </a>
  <br/>
 
 
  
-![Natnael Graph](https://github-readme-activity-graph.vercel.app/graph?username=nathnaelg&custom_title=Natnael%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Natnael Graph](https://github-readme-activity-graph.vercel.app/graph?username=nathnaelg1&custom_title=Natnael%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </p>
 
